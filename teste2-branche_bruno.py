@@ -1,0 +1,1 @@
+print("Meu nome é Yoshikage Kira,tenho 33 anos e moro na parte oeste de Morio")
